@@ -98,6 +98,90 @@
                     </div>
                   </div>
                   <!--Video Ends -->
+                  <!----2nd part-->     
+             <div class="videos__container">
+                <!--Video starts -->
+                <div class="video">
+                  <div class="video__thumbnail">
+                    <img src="C:\Users\Diya\Desktop" alt="error loading" />
+                  </div>
+                      <h3>
+                        Introverts & Content Creation | Sumudu Siriwardana
+                      </h3>
+                      <a href="">Franceso Ciulla</a>
+                      <span>2M Views • 3 Months Ago</span>
+                    </div>
+                  </div>
+                </div>
+            <!---ends-->
+            <!---3rd part-->
+            <div class="videos__container">
+                <!--Video starts -->
+                <div class="video">
+                  <div class="video__thumbnail">
+                    <img src="C:\Users\Diya\Desktop" alt="error loading" />
+                  </div>
+                      <h3>
+                        Introverts & Content Creation | Sumudu Siriwardana
+                      </h3>
+                      <a href="">Franceso Ciulla</a>
+                      <span>2M Views • 3 Months Ago</span>
+                    </div>
+                  </div>
+                </div>
+            <!----ends-->
+            <!--4th part-->
+            <div class="videos__container">
+                <!--Video starts -->
+                <div class="video">
+                  <div class="video__thumbnail">
+                    <img src="C:\Users\Diya\Desktop" alt="error loading" />
+                  </div>
+                      <h3>
+                        Introverts & Content Creation | Sumudu Siriwardana
+                      </h3>
+                      <a href="">Franceso Ciulla</a>
+                      <span>2M Views • 3 Months Ago</span>
+                    </div>
+                  </div>
+                </div>
+            <!---ends-->
+            <!--5th part-->
+            <div class="videos__container">
+                <!--Video starts -->
+                <div class="video">
+                  <div class="video__thumbnail">
+                    <img src="C:\Users\Diya\Desktop" alt="error loading" />
+                  </div>
+                      <h3>
+                        Introverts & Content Creation | Sumudu Siriwardana
+                      </h3>
+                      <a href="">Franceso Ciulla</a>
+                      <span>2M Views • 3 Months Ago</span>
+                    </div>
+                  </div>
+                </div>
+            <!---ends-->
+            <!---6th part-->
+            <div class="videos__container">
+                <!--Video starts -->
+                <div class="video">
+                  <div class="video__thumbnail">
+                    <img src="C:\Users\Diya\Desktop" alt="error loading" />
+                  </div>
+                      <h3>
+                        Introverts & Content Creation | Sumudu Siriwardana
+                      </h3>
+                      <a href="">Franceso Ciulla</a>
+                      <span>2M Views • 3 Months Ago</span>
+                    </div>
+                  </div>
+                </div>
+            <!---ends-->
+
+
+        
+                  
         
                   
 
