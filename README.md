@@ -87,7 +87,7 @@
                   <!--Video starts -->
                   <div class="video">
                     <div class="video__thumbnail">
-                      <img src="C:\Users\Diya\Desktop" alt="error loading" />
+                      <img src="https://img.youtube.com/vi/zUwB_imVjmg/maxresdefault.jpg" alt="error loading" />
                     </div>
                         <h3>
                           Introverts & Content Creation | Sumudu Siriwardana
@@ -103,7 +103,7 @@
                 <!--Video starts -->
                 <div class="video">
                   <div class="video__thumbnail">
-                    <img src="C:\Users\Diya\Desktop" alt="error loading" />
+                    <img src="https://img.youtube.com/vi/zUwB_imVjmg/maxresdefault.jpg" alt="error loading" />
                   </div>
                       <h3>
                         Introverts & Content Creation | Sumudu Siriwardana
@@ -119,7 +119,7 @@
                 <!--Video starts -->
                 <div class="video">
                   <div class="video__thumbnail">
-                    <img src="C:\Users\Diya\Desktop" alt="error loading" />
+                    <img src="https://img.youtube.com/vi/zUwB_imVjmg/maxresdefault.jpg" alt="error loading" />
                   </div>
                       <h3>
                         Introverts & Content Creation | Sumudu Siriwardana
@@ -135,7 +135,7 @@
                 <!--Video starts -->
                 <div class="video">
                   <div class="video__thumbnail">
-                    <img src="C:\Users\Diya\Desktop" alt="error loading" />
+                    <img src="https://img.youtube.com/vi/zUwB_imVjmg/maxresdefault.jpg" alt="error loading" />
                   </div>
                       <h3>
                         Introverts & Content Creation | Sumudu Siriwardana
@@ -151,7 +151,7 @@
                 <!--Video starts -->
                 <div class="video">
                   <div class="video__thumbnail">
-                    <img src="C:\Users\Diya\Desktop" alt="error loading" />
+                    <img src="https://img.youtube.com/vi/zUwB_imVjmg/maxresdefault.jpg" alt="error loading" />
                   </div>
                       <h3>
                         Introverts & Content Creation | Sumudu Siriwardana
@@ -167,7 +167,7 @@
                 <!--Video starts -->
                 <div class="video">
                   <div class="video__thumbnail">
-                    <img src="C:\Users\Diya\Desktop" alt="error loading" />
+                    <img src="https://img.youtube.com/vi/zUwB_imVjmg/maxresdefault.jpg" alt="error loading" />
                   </div>
                       <h3>
                         Introverts & Content Creation | Sumudu Siriwardana
